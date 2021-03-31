@@ -1,0 +1,19 @@
+{
+  "name": "minirepo",
+  "version": "1.0.0",
+  "description": "ADMIN-APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushsinghal23/minirepo.git"
+  },
+  "author": "ayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushsinghal23/minirepo/issues"
+  },
+  "homepage": "https://github.com/ayushsinghal23/minirepo#readme"
+}
